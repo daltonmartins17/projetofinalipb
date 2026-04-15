@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@zoomus/websdk": "^2.18.3",
+    "axios": "^1.8.4",
+    "react-pdf": "^9.2.1",
+    "react-router-dom": "^7.4.0"
+  }
+}
